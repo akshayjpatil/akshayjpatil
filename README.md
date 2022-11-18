@@ -1,4 +1,7 @@
-# 👋 Hi, I’m @akshayjpatil
+# 👋 Hi, I’m Akshay
+
+ - I am a Full-Stack Developer
+ - Currently working with NextJs, React-Query, TypeScript
 
 ## Activity:
 
